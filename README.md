@@ -1,3 +1,3 @@
 # firebase-auth
 
-Firebase User Authentication project for tutorials purposes.
+Simple Android Demo Application that features user sign-up and sign in using Firebase platform.
